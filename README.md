@@ -11,7 +11,7 @@ Este projeto contém uma implementação em Python para simplificação e normal
 
 A gramática deve ser fornecida no formato de um dicionário Python onde as chaves são os símbolos não-terminais e os valores são listas de produções. Exemplo:
 
-```json
+```
 {
     'S': ['aAa', 'bBv'],
     'A': ['a', 'aA']
