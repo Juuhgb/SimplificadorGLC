@@ -16,3 +16,4 @@ A gramática deve ser fornecida no formato de um dicionário Python onde as chav
     'S': ['aAa', 'bBv'],
     'A': ['a', 'aA']
 }
+```
